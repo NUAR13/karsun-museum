@@ -1,7 +1,7 @@
 {
-  "name": "mishka-24",
+  "name": "drink-2go",
   "private": true,
-  "description": "Личный проект «Мишка» от HTML Academy",
+  "description": "Главные причины выбрать Drink2Go",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.0.0",
     "autoprefixer": "10.4.0",
